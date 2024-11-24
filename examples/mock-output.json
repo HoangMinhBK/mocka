@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "cac3a7e8-7ef1-4e99-901d-340f5138d058",
+      "name": "Walter Nolan",
+      "email": "Irwin69@yahoo.com",
+      "phone": "(509) 233-2889",
+      "address": {
+        "street": {
+          "street": "523 Omer Groves",
+          "city": "Naderstad",
+          "country": "Burundi"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": false
+    },
+    {
+      "id": "e0edfffa-8966-44bf-b354-ce011e95af27",
+      "name": "Hector Fahey",
+      "email": "Fausto.Herzog12@gmail.com",
+      "phone": "374.747.0847 x3657",
+      "address": {
+        "street": {
+          "street": "68555 Bernier Parkways",
+          "city": "Lake Nikkiville",
+          "country": "Democratic Republic of the Congo"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": true
+    },
+    {
+      "id": "3b9d3030-d744-4ac8-8c7b-e497f29e8968",
+      "name": "Clark Homenick",
+      "email": "Jett_Schultz@gmail.com",
+      "phone": "959-309-7057 x7303",
+      "address": {
+        "street": {
+          "street": "5943 Von Parkway",
+          "city": "Attleboro",
+          "country": "Martinique"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": true
+    },
+    {
+      "id": "7af24cf8-fa76-4fda-bbc3-d3218ce9aa93",
+      "name": "Marlene Reilly",
+      "email": "Harry_Collins@hotmail.com",
+      "phone": "(363) 687-7200 x88646",
+      "address": {
+        "street": {
+          "street": "8450 Lincoln Road",
+          "city": "Surprise",
+          "country": "Turkey"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": true
+    },
+    {
+      "id": "e3625cef-eedc-4489-a2b5-70c8d47bad28",
+      "name": "Antoinette Fahey DVM",
+      "email": "Rubie.Gleichner59@hotmail.com",
+      "phone": "799.719.5584 x059",
+      "address": {
+        "street": {
+          "street": "6616 E Walnut Street",
+          "city": "North Keeleyborough",
+          "country": "Saint Helena"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": false
+    },
+    {
+      "id": "abae5317-0807-42ba-a0e0-63c822151adc",
+      "name": "Vanessa Dooley",
+      "email": "Henri.Kemmer9@gmail.com",
+      "phone": "651-519-1207",
+      "address": {
+        "street": {
+          "street": "90447 Adams Street",
+          "city": "Effertzworth",
+          "country": "Micronesia"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": false
+    },
+    {
+      "id": "87ec22f2-c241-442c-9c48-1040d483487f",
+      "name": "Ramona Anderson",
+      "email": "Silas93@yahoo.com",
+      "phone": "(248) 278-0045 x7922",
+      "address": {
+        "street": {
+          "street": "337 S Grand Avenue",
+          "city": "West Winnifred",
+          "country": "Saint Vincent and the Grenadines"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": true
+    },
+    {
+      "id": "aad2e099-3d96-4d12-a07c-8bbca2e6e2f1",
+      "name": "Candace Ziemann",
+      "email": "Delphia48@gmail.com",
+      "phone": "600.620.3835 x05892",
+      "address": {
+        "street": {
+          "street": "7293 Cummerata Plains",
+          "city": "Fort Jaydon",
+          "country": "Montserrat"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": false
+    },
+    {
+      "id": "dbb61d18-c74e-4eb5-985e-262736234f26",
+      "name": "Freda Gottlieb",
+      "email": "Reynold35@gmail.com",
+      "phone": "1-519-384-3599 x0729",
+      "address": {
+        "street": {
+          "street": "454 The Paddock",
+          "city": "South Sallymouth",
+          "country": "Trinidad and Tobago"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": false
+    },
+    {
+      "id": "67553362-7e2b-4264-b116-01197e33a377",
+      "name": "Laurence Terry DVM",
+      "email": "Arvid_Anderson@hotmail.com",
+      "phone": "(380) 371-1087 x20502",
+      "address": {
+        "street": {
+          "street": "8659 Klocko Dale",
+          "city": "Watsonville",
+          "country": "Kiribati"
+        },
+        "city": null,
+        "country": null
+      },
+      "isActive": true
+    }
+  ]
+}

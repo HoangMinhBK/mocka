@@ -1,0 +1,17 @@
+{
+  "count": 10,
+  "users": [
+    {
+      "id": "uuid",
+      "name": "name",
+      "email": "email",
+      "phone": "phone",
+      "address": {
+        "street": "address",
+        "city": "city",
+        "country": "country"
+      },
+      "isActive": "boolean"
+    }
+  ]
+}
